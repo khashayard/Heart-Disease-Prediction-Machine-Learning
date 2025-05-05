@@ -80,4 +80,4 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/khashayard/heart-disease-prediction.git
